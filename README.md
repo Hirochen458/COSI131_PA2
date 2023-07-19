@@ -1,0 +1,2 @@
+# COSI131_PA2
+Now that you have implemented a sequential Unix shell (congratulations!) the next step is to make it more realistic by introducing threads and concurrency. You will be given a completed solution of PA 1, regardless of whether you finished it or not. This starter code you will need is available on LATTE. This document is pretty long and was custom designed to help you be successful with this assignment. Please read it closely. There are various cheat codes (umm I meant “helpful tips”) in places in the text.
